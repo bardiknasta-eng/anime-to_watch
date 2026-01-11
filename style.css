@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    font-size: 30px;
+    border:rgb(211, 211, 211) solid 5px;
+    border-radius: 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+}
+
+h1{
+    border: rgb(246, 200, 246) solid 5px;
+    border-radius: 20%;
+    padding: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+.Spyxfamily{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+
+}
+
+.spyxfamily{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+
+}
+
+.Cuzume{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.Suzume{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.Horimiya{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.Komi-san{
+    width: 170px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.Shinobu{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+
+
+
+
+
